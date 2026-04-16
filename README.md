@@ -1,6 +1,9 @@
 # ServicesSystemEcuM
 Repository for EcuM.
 
+# 2026.04.20: branch_server_v0.0.3
+Feature: Introduce dummy bootloader.
+
 # 2026.04.03: branch_server_v0.0.2
 Feature:
       EcuM status for shutdown request implementation 
