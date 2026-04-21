@@ -1,6 +1,9 @@
 # ServicesSystemEcuM
 Repository for EcuM.
 
+# 2026.04.21: branch_server_v0.0.4
+Feature: Introduce power-on reset timeout in bootloader.
+
 # 2026.04.20: branch_server_v0.0.3
 Feature: Introduce dummy bootloader.
 
