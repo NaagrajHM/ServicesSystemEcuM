@@ -1,6 +1,10 @@
 # ServicesSystemEcuM
 Repository for EcuM.
 
+# 2026.04.30: branch_client_v0.0.1
+Feature:
+      #7 Inherit interim architecture from server.
+
 # 2026.04.22: branch_server_v0.0.5
 Feature:
       #3 Bootloader gets application-like personality.
