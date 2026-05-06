@@ -1,6 +1,9 @@
 # ServicesSystemEcuM
 Repository for EcuM.
 
+# 2026.05.05:
+      #8 2026.05.05: branch_client_v0.0.2 - BUGFIX - default mode in client changed to application.
+
 # 2026.04.30: branch_client_v0.0.1
 Feature:
       #7 Inherit interim architecture from server.
